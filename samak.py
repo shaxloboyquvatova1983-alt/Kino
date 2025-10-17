@@ -5,7 +5,7 @@ import random
 import requests
 import os
 
-API_TOKEN = '6710902707:AAFxuvDnZboc02dgpxl_-HhJXUyvmBjAvN4a'
+API_TOKEN = '6710902707:AAFxuvDnZboc02dgpxl_-HhJXUyvmBjAvN4'
 ADMIN_ID = 5961969653
 KARTA = '9860356637855608'
 CHANNEL_LINK = "https://t.me/Sardor_ludoman"
